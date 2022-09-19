@@ -1,0 +1,373 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Prompt', sans-serif;
+}
+
+/* NAVBAR */
+.main-navbar .navbar {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    box-shadow: rgb(100 100 111 / 13%) 0px 7px 29px 0px;
+}
+
+.main-navbar .navbar .links {
+    margin-inline-start: auto;
+    margin-right: 50px;
+}
+
+.main-navbar .navbar .links ul {
+    list-style: none;
+    display: flex;
+    margin-top: 38px;
+}
+.main-navbar .navbar .links a{
+    color: black;
+}
+.main-navbar .navbar .links ul li {
+    margin-left: 50px;
+}
+
+/* HOME BANNER */
+.main-home .banner {
+    width: 100%;
+    height: 600px;
+    background-image: url('./Img/banner.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #141c2e;
+}
+
+.main-home .banner {
+    color: white;
+    padding: 160px 0px 0px 70px;
+}
+
+.main-home .banner h1 {
+    margin-bottom: 10px;
+    font-size: xx-large;
+}
+
+.main-home .banner button {
+    width: 200px;
+    height: 50px;
+    color: white;
+    border-color: transparent;
+    background-color: #1b7695;
+    margin-top: 60px;
+}
+
+.navbar .logo .preto {
+    opacity: 1;
+    width: 100px;
+    margin-left: 40px;
+}
+
+.navbar .logo .branco {
+    opacity: 0;
+    width: 0px;
+    margin: 0px;
+}
+
+/* HOME CONTENT */
+.main-home .content {
+    margin-top: 50px;
+}
+
+.list-books i {
+    margin-left: 35px;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.list-books .title {
+    font-size: x-large;
+    margin-left: 80px;
+}
+
+.main-home .content .list {
+    display: flex;
+    margin: 150px 0px 0px 75px;
+    width: 92%;
+    flex-wrap: wrap;
+}
+
+.main-home .content .list .book {
+    width: 300px;
+    height: 315px;
+    background-color: white;
+    padding: 0px 50px 0px 50px;
+    margin: 2%;
+    margin-bottom: 10%;
+    box-shadow: rgb(100 100 111 / 13%) 0px 7px 29px 0px;
+}
+
+.main-home .content .list .book img {
+    max-width: 200px;
+    margin: -120px 0px 20px 0px;
+}
+
+.main-home .content .list .book .star {
+    display: flex;
+    justify-content: center;
+}
+
+.main-home .content .list .book .star i {
+    color: #f7b603;
+    margin: 0px;
+    font-size: 19px;
+}
+
+.main-home .content .list .book .star p {
+    font-size: 12px;
+}
+
+.main-home .content .list .book button {
+    width: 100%;
+    margin-top: 10px;
+    height: 50px;
+    background-color: #141c2e;
+    color: white;
+}
+
+/* DETAILS */
+.main-details img {
+    max-width: 30%;
+    margin: -325px 0px 0px 35%;
+}
+
+.main-details .header i {
+    font-size: xx-large;
+    margin: 30px;
+    color: white;
+
+}
+
+.main-details .stars {
+    display: flex;
+    justify-content: center;
+}
+
+.main-details .stars i {
+    color: #f7b603;
+    font-size: 19px;
+}
+
+.main-details .content .text {
+    margin-top: 60px;
+    max-width: 60%;
+    text-align: center;
+}
+
+.main-details .content {
+    text-align-last: center;
+    text-align: -webkit-center;
+}
+
+.main-details .content h1 {
+    font-size: 300%;
+}
+
+.main-details .content button {
+    width: 40%;
+    height: 65px;
+    box-shadow: rgb(100 100 111 / 13%) 0px 7px 29px 0px;
+    margin-top: 27px;
+    color: white;
+    background-color: #141c2e;
+}
+
+.main-details .header {
+    height: 400px;
+}
+
+.main-details {
+    background-color: white;
+}
+
+.main-details .imgs img {
+    max-width: 30%;
+    margin: 80px 0px -295px 37%;
+}
+
+/* READ BOOK */
+.main-read-book {
+    background-color: white;
+}
+
+.main-read-book span {
+    background-color: rgb(255 251 164);
+    color: black;
+}
+
+.main-read-book i {
+    font-size: xx-large;
+    margin-left: 50px;
+    margin-top: 35px;
+    color: gray;
+}
+
+.main-read-book h1 {
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+
+.main-read-book .cap {
+    margin-top: 4%;
+    color: #fccda5;
+    text-align: center;
+}
+
+.main-read-book #inputText {
+    width: 80%;
+    margin: auto;
+}
+
+.main-read-book .footer {
+    width: 100%;
+    height: 20px;
+    background-color: #fccda5;
+}
+
+.main-read-book .completed-text {
+    margin-bottom: 250px;
+}
+
+/* MEDIA */
+@media (max-width: 999px) {
+    .main-home .banner {
+        height: 0px;
+        opacity: 0;
+    }
+
+    .main-navbar .navbar {
+        color: white;
+        padding: 10px;
+        width: 100%;
+        height: 185px;
+        background-color: #141c2e;
+    }
+    .main-navbar .navbar .links a{
+        color: white;
+    }
+    .navbar .logo .branco {
+        opacity: 1;
+        width: 100px;
+        margin-left: 40px;
+    }
+
+    .navbar .logo .preto {
+        opacity: 0;
+        width: 0px;
+        margin: 0px;
+    }
+
+    .main-home .content .list .book {
+        width: 235px;
+        height: 314px;
+        padding: 0px 25px 0px 18px;
+        margin: 22px;
+        margin-bottom: 20%;
+    }
+
+    .main-home .content .list {
+        display: flex;
+        margin: 150px 0px 0px 30px;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .list-books i {
+        margin-left: 10%;
+        font-size: 25px;
+        margin-top: 5px;
+    }
+
+    .main-home .content .list {
+        width: 95%;
+    }
+
+    .main-details img {
+        max-width: 45%;
+        margin: -250px 0px 0px 29%;
+    }
+
+    .main-details .content button {
+        width: 80%;
+    }
+
+    .main-details .content .text {
+        margin-top: 60px;
+        max-width: 85%;
+    }
+}
+
+@media (max-width: 499px) {
+    .main-home .content .list .book {
+        width: 175px;
+        height: 315px;
+        padding: 0px 18px 0px 18px;
+        margin: 5px;
+        margin-bottom: 35%;
+    }
+
+    .main-home .content .list .book img {
+        max-width: 140px;
+        margin: -60px 0px 26px 0px;
+    }
+
+    .main-home .content .list {
+        margin: 110px 0px 0px 30px;
+    }
+
+    .main-details .header {
+        height: 300px;
+    }
+
+    .main-details img {
+        margin: -240px 0px 0px 25%;
+    }
+
+    .main-details .content h1 {
+        font-size: 235%;
+    }
+
+    .main-details .content .text {
+        margin-top: 30px;
+        max-width: 85%;
+    }
+
+    .main-details .content button {
+        width: 90%;
+    }
+}
+
+/* FOOTER */
+
+.main-home .footer {
+    width: 100%;
+    background-color: #141c2e;
+    height: 100px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
