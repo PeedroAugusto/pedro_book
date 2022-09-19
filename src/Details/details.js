@@ -1,33 +1,23 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
+import JsonBook from '../books.json'
+
 export default function Func() {
     const [book, setbook] = useState([])
     function getbook() {
-        var axios = require('axios');
 
-        var config = {
-            method: 'get',
-            url: `https://localhost:44311/PedroBook/GetBook?id=${localStorage.getItem("bookId")}`,
-            headers: {}
-        };
-
-        axios(config)
-            .then(function (response) {
-                setbook(response.data);
-                    var header = document.getElementById("headeer")
-                    console.log(book.main_Color)
-                    header.style.backgroundColor = `${localStorage.getItem("mainColor")}`
-            })
-            .catch(function (error) {
-            });
+        setbook(JsonBook.filter(x => x.id === Number(localStorage.getItem("bookId")))[0])
+        var header = document.getElementById("headeer")
+        console.log(book.main_Color)
+        header.style.backgroundColor = `${localStorage.getItem("mainColor")}`
 
     }
     const txt = `${book.text_Content}`
-    const toShow = txt.substring(0, 290) + "..."
+    const toShow = txt.substring(0, 200) + "..."
     useEffect(() => { getbook() }, [])
     return (
         <>
-        
+
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin={'true'} />
             <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@800;900&display=swap" rel="stylesheet" />
@@ -44,10 +34,10 @@ export default function Func() {
                         <p style={{ color: "#f7b603" }}>{book.avaliation}</p>
                         <p style={{ marginLeft: "10px" }}>543 Avaliações</p>
                     </div>
-                    <h1>{book.name}</h1>
+                    <h1 className='book-name'>{book.name}</h1>
                     <p style={{ color: "gray" }}>By {book.created_By}</p>
-                    <p  dangerouslySetInnerHTML={{ __html: toShow}} className='text'></p>
-                    <button onClick={() => {localStorage.setItem("bookName", book.name); localStorage.setItem("bookContent", book.text_Content); window.location.href = "/read-book"}}>Começar a ler</button>
+                    <p dangerouslySetInnerHTML={{ __html: toShow }} className='text'></p>
+                    <button onClick={() => { localStorage.setItem("bookName", book.name); localStorage.setItem("bookContent", book.text_Content); window.location.href = "/read-book" }}>Começar a ler</button>
                 </div>
             </div>
         </>

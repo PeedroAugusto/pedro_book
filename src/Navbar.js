@@ -15,14 +15,13 @@ export default function Func() {
             <div className='main-navbar'>
                 <div className='navbar'>
                     <div className='logo'>
-                        <img className='branco' src={Logo} />
-                        <img className='preto' src={Logo2} />
+                        <a href='/'><img className='branco' src={Logo} /></a>
+                        <a href='/'><img className='preto' src={Logo2} /></a>
                     </div>
                     <div className='links'>
                         <ul>
                             <li><a href='/'><i className='bx bx-home-alt-2'></i></a></li>
-                            <li><i className='bx bx-book' ></i></li>
-                            <li><i className='bx bx-user' ></i></li>
+                            <li><a href='/list_books'><i className='bx bx-book' ></i></a></li>
                         </ul>
                     </div>
                 </div>

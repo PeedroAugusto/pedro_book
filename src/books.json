@@ -1,0 +1,94 @@
+[
+    {
+        "id": 2,
+        "name": "Todas as suas perfeições",
+        "created_By": "Colleen Hoover",
+        "avaliation": "3.8",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/81Vhnel+xxL.jpg",
+        "text_Content": "HTML to JSON Converter is used to convert HTML document to JSON by extracting the rows from HTML tables & converting it to JSON format. HTML is parsed, data types are automatically detected & converted to appropriate format in the JSON output. And finally the JSON output is formatted & indented for easy viewing.",
+        "main_Color": "#bedbf2",
+        "category_Id": "romances"
+    },
+    {
+        "id": 3,
+        "name": "As coisas que você só vê quando desacelera: Como manter a calma em um mundo frenético",
+        "created_By": "Heamin Sunim",
+        "avaliation": "6.0",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/61OEg3V-FTL.jpg",
+        "text_Content": "De tempos em tempos, surge um livro que, com sua maneira original de iluminar importantes temas espirituais, se torna um fenômeno tão grande em seu país de origem que acaba chamando a atenção e encantando leitores de todo o mundo.",
+        "main_Color": "#095c7d",
+        "category_Id": "aventuras"
+    },
+    {
+        "id": 1,
+        "name": "o Livro para quem não tem medo de aventura",
+        "created_By": "Scott Mcneely",
+        "avaliation": "4.5",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/91NReim4p+L.jpg",
+        "text_Content": "Vi <br />ver uma  <br />vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o desconhecido e os próprios limites. Viver uma vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o desconhecido e os próprios limites. Viver uma vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o descon <br />hecido e os próprios limites.",
+        "main_Color": "#273c35",
+        "category_Id": "aventuras"
+    },
+    {
+        "id": 4,
+        "name": "A series of unfortunate events",
+        "created_By": "Lemony Snicket",
+        "avaliation": "4.5",
+        "capa": "http://www.dfe.uem.br/comunicauem/wp-content/uploads/2017/05/IMG_6285-724x1024.jpg",
+        "text_Content": "Vi <br />ver uma  <br />vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o desconhecido e os próprios limites. Viver uma vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o desconhecido e os próprios limites. Viver uma vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o descon <br />hecido e os próprios limites.",
+        "main_Color": "#a83136",
+        "category_Id": "aventuras"
+    },
+    {
+        "id": 5,
+        "name": "The little mermaid",
+        "created_By": "Hans Christian Anderson",
+        "avaliation": "4.5",
+        "capa": "http://www.dfe.uem.br/comunicauem/wp-content/uploads/2017/05/IMG_6281-724x1024.jpg",
+        "text_Content": "Vi <br />ver uma  <br />vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o desconhecido e os próprios limites. Viver uma vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o desconhecido e os próprios limites. Viver uma vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o descon <br />hecido e os próprios limites.",
+        "main_Color": "#163e56",
+        "category_Id": "aventuras"
+    }
+    ,
+    {
+        "id": 6,
+        "name": "The great adventures of Sherlock Holmes",
+        "created_By": "Hans Christian Anderson",
+        "avaliation": "4.5",
+        "capa": "http://www.dfe.uem.br/comunicauem/wp-content/uploads/2017/05/IMG_6284-724x1024.jpg",
+        "text_Content": "Vi <br />ver uma  <br />vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o desconhecido e os próprios limites. Viver uma vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o desconhecido e os próprios limites. Viver uma vida gratificante significa correr riscos, acordar e não saber o que o dia pode trazer. Sua aventura começa quando você abraça essa sensação desconfortável e estimulante de possibilidade. Seja uma caminhada para observar gorilas em Ruanda, um mergulho em um penhasco, ou algo mais leve, como uma guerra de tomates na Espanha ou uma visita à ruína arqueológica de Machu Picchu, este livro vai te inspirar a viver uma nova experiência. Com descrições detalhadas e informações de logística para cada atividade, O livro para quem não tem medo de aventura mostra situações complexas que desafiam a morte e também aventuras simples em família para começar já. Não importa o perfil, aqui há a escapada certa para quem busca o descon <br />hecido e os próprios limites.",
+        "main_Color": "#cdcea6",
+        "category_Id": "aventuras"
+    },
+    {
+        "id": 7,
+        "name": "Uma segunda chance",
+        "created_By": "Colleen Hoover",
+        "avaliation": "4.5",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/81b48B0vpNL.jpg",
+        "text_Content": "Será que todos merecem uma segunda chance? É o que mais deseja Kenna Rowan, na luta para recuperar os pedaços estilhaçados de sua antiga vida após um trágico acidente ter colocado tudo a perder. Uma segunda chance é o tão esperado novo romance de Colleen Hoover, CoHo para os íntimos, autora fenômeno de vendas, que já ultrapassou a marca de 1 milhão de exemplares vendidos no Brasil. Depois de passar cinco anos na prisão após um trágico acidente, Kenna Rowan retorna à cidade onde tudo deu errado, esperando poder viver ao lado da filha pequena. Mas agora os abismos criados por Kenna parecem instransponíveis. Todos ao redor da sua filha estão determinados a rejeitar Kenna, não importa o quanto ela tente provar que mudou. A única pessoa que não a ignora é Ledger Ward, dono de um bar e um dos poucos elos que ainda lhe resta com a criança. Porém, se os moradores da cidade desconfiarem de que Ledger vem se tornando importante na vida de Kenna, ambos correrão o risco de perder tudo o que mais importa para eles. Com pontos de vista alternados entre os dois personagens, Uma segunda chance explora o quanto julgamentos apressados baseados em informações que podem não ser verdadeiras tem o potencial de acabar com a vida das pessoas.",
+        "main_Color": "#e9b9a0",
+        "category_Id": "romances"
+    }
+    ,
+    {
+        "id": 8,
+        "name": "Não confie em ninguém",
+        "created_By": "Charlie Donlea",
+        "avaliation": "4.5",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/71zjlOS6ILL.jpg",
+        "text_Content": "Será que todos merecem uma segunda chance? É o que mais deseja Kenna Rowan, na luta para recuperar os pedaços estilhaçados de sua antiga vida após um trágico acidente ter colocado tudo a perder. Uma segunda chance é o tão esperado novo romance de Colleen Hoover, CoHo para os íntimos, autora fenômeno de vendas, que já ultrapassou a marca de 1 milhão de exemplares vendidos no Brasil. Depois de passar cinco anos na prisão após um trágico acidente, Kenna Rowan retorna à cidade onde tudo deu errado, esperando poder viver ao lado da filha pequena. Mas agora os abismos criados por Kenna parecem instransponíveis. Todos ao redor da sua filha estão determinados a rejeitar Kenna, não importa o quanto ela tente provar que mudou. A única pessoa que não a ignora é Ledger Ward, dono de um bar e um dos poucos elos que ainda lhe resta com a criança. Porém, se os moradores da cidade desconfiarem de que Ledger vem se tornando importante na vida de Kenna, ambos correrão o risco de perder tudo o que mais importa para eles. Com pontos de vista alternados entre os dois personagens, Uma segunda chance explora o quanto julgamentos apressados baseados em informações que podem não ser verdadeiras tem o potencial de acabar com a vida das pessoas.",
+        "main_Color": "#f4534d",
+        "category_Id": "suspences"
+    },
+    {
+        "id": 9,
+        "name": "O nome do vento",
+        "created_By": "Patrick Rothfuss",
+        "avaliation": "4.5",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/81f3FlBd7QL.jpg",
+        "text_Content": "Será que todos merecem uma segunda chance? É o que mais deseja Kenna Rowan, na luta para recuperar os pedaços estilhaçados de sua antiga vida após um trágico acidente ter colocado tudo a perder. Uma segunda chance é o tão esperado novo romance de Colleen Hoover, CoHo para os íntimos, autora fenômeno de vendas, que já ultrapassou a marca de 1 milhão de exemplares vendidos no Brasil. Depois de passar cinco anos na prisão após um trágico acidente, Kenna Rowan retorna à cidade onde tudo deu errado, esperando poder viver ao lado da filha pequena. Mas agora os abismos criados por Kenna parecem instransponíveis. Todos ao redor da sua filha estão determinados a rejeitar Kenna, não importa o quanto ela tente provar que mudou. A única pessoa que não a ignora é Ledger Ward, dono de um bar e um dos poucos elos que ainda lhe resta com a criança. Porém, se os moradores da cidade desconfiarem de que Ledger vem se tornando importante na vida de Kenna, ambos correrão o risco de perder tudo o que mais importa para eles. Com pontos de vista alternados entre os dois personagens, Uma segunda chance explora o quanto julgamentos apressados baseados em informações que podem não ser verdadeiras tem o potencial de acabar com a vida das pessoas.",
+        "main_Color": "#fcecb0",
+        "category_Id": "aventuras"
+    }
+]
